@@ -1,5 +1,5 @@
 
-// Created on Sun Jan 6 2013//colin is a duty face hahahaha....HA
+//herr my freinds how is you today
 int logan[3][3];
 >>>>>>> added comment
 int print_map(int map[3][3]);
