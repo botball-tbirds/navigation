@@ -1,5 +1,5 @@
 // Created on Sun Jan 6 2013
-int logan[3][3];
+int logan[3][3]; // logan suck-colin has been here, hello world
 int print_map(int map[3][3]);
 int load_map();
 int main() 
