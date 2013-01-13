@@ -1,5 +1,5 @@
 
-//herr my freinds how is you today
+//hello my freinds how are you today
 int logan[3][3];
 >>>>>>> added comment
 int print_map(int map[3][3]);
